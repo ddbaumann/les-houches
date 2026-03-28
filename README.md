@@ -1,6 +1,6 @@
 # Les Houches Lectures
 ## Description
-This page contains material supporting my lectures at the UNIVERSE+ School: Exploring Positive Geometry. The draft textbook on which the lectures are based is work in progress with Austin Joyce.
+This page contains material supporting my lectures at the [*UNIVERSE+ School: Exploring Positive Geometry*](https://www.houches-school-physics.com/program/program-2026/doctoral-training-universe-school-exploring-positive-geometry-1662779.kjsp). The lectures are based in part on notes written together with Austin Joyce.
 ## Outline
 1. Motivation
 2. Wavefunction of the Universe
@@ -8,6 +8,9 @@ This page contains material supporting my lectures at the UNIVERSE+ School: Expl
 4. Cosmological Wavefunction
 5. De Sitter Wavefunction
 6. Outlook
+## Lecture Material
+- [Lecture Notes](https://www.dropbox.com/scl/fi/u6qntlbpdk0z6f2avbvws/QFT-Book.pdf?rlkey=e89tk60xluwqgr3gk78ozm6ml&dl=0)
+- Lecture Script
 ## References
 - Baumann and Joyce, [*Quantum Fields and Cosmology*](https://www.dropbox.com/scl/fi/u6qntlbpdk0z6f2avbvws/QFT-Book.pdf?rlkey=e89tk60xluwqgr3gk78ozm6ml&dl=0)
 - Baumann et al, [*Snowmass White Paper: Cosmological Bootstrap*](https://arxiv.org/abs/2203.08121)
