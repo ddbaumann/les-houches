@@ -19,3 +19,4 @@ This page contains material supporting my lectures at the [*UNIVERSE+ School: Ex
 - Arkani-Hamed, Benincasa and Postnikov, [*Cosmological Polytopes*](https://arxiv.org/abs/1709.02813)
 - Arkani-Hamed, Figueiredo and Vazao, [*Cosmohedra*](https://arxiv.org/abs/2412.19881)
 - Arkani-Hamed et al, [*Differential Equations for Cosmological Correlators*](https://arxiv.org/abs/2312.05303)
+- Arundine, Baumann, Lee, Pimentel and Rost, [*The Cosmological Grassmannian*](https://arxiv.org/abs/2602.07117)
