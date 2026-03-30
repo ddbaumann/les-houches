@@ -17,4 +17,5 @@ This page contains material supporting my lectures at the [*UNIVERSE+ School: Ex
 - Benincasa, [*Amplitudes Meet Cosmology*](https://arxiv.org/abs/2203.15330)
 - Arkani-Hamed, Baumann, Lee and Pimentel, [*Cosmological Bootstrap*](https://arxiv.org/abs/1811.00024)
 - Arkani-Hamed, Benincasa and Postnikov, [*Cosmological Polytopes*](https://arxiv.org/abs/1709.02813)
+- Arkani-Hamed, Figueiredo and Vazao, [*Cosmohedra*](https://arxiv.org/abs/2412.19881)
 - Arkani-Hamed et al, [*Differential Equations for Cosmological Correlators*](https://arxiv.org/abs/2312.05303)
