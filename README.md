@@ -9,8 +9,8 @@ This page contains material supporting my lectures at the [*UNIVERSE+ School: Ex
 5. De Sitter Wavefunction
 6. Outlook
 ## Lecture Material
-- [Lecture Notes](https://www.dropbox.com/scl/fi/u6qntlbpdk0z6f2avbvws/QFT-Book.pdf?rlkey=e89tk60xluwqgr3gk78ozm6ml&dl=0)
-- [Lecture Script](https://www.dropbox.com/scl/fi/b9whb75xg3ws4bm80n2ms/LesHouches-Script.pdf?rlkey=1c6hagcx677uf6l6k31bodwyq&dl=0)
+- [Lecture Notes](https://www.dropbox.com/scl/fi/u6qntlbpdk0z6f2avbvws/QFT-Book.pdf?rlkey=e89tk60xluwqgr3gk78ozm6ml&dl=0) (Selected topics of Part II)
+- [Lecture Script](https://www.dropbox.com/scl/fi/b9whb75xg3ws4bm80n2ms/LesHouches-Script.pdf?rlkey=1c6hagcx677uf6l6k31bodwyq&dl=0) 
 ## References
 - Baumann and Joyce, [*Quantum Fields and Cosmology*](https://www.dropbox.com/scl/fi/u6qntlbpdk0z6f2avbvws/QFT-Book.pdf?rlkey=e89tk60xluwqgr3gk78ozm6ml&dl=0)
 - Baumann et al, [*Snowmass White Paper: Cosmological Bootstrap*](https://arxiv.org/abs/2203.08121)
