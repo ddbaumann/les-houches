@@ -11,7 +11,7 @@ This page contains material supporting my lectures at the [*UNIVERSE+ School: Ex
 ## Lecture Material
 - [Lecture Notes](QFT-Book.pdf) (Selected topics of Part II)
 - [Lecture Script](LesHouches-Script.pdf) (long)
-- - [Lecture Script](LesHouches-Script-SHORT.pdf) (short)
+- [Lecture Script](LesHouches-Script-SHORT.pdf) (short)
 ## References
 - Baumann and Joyce, [*Quantum Fields and Cosmology*](QFT-Book.pdf)
 - Baumann et al, [*Snowmass White Paper: Cosmological Bootstrap*](https://arxiv.org/abs/2203.08121)
