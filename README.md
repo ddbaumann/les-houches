@@ -13,11 +13,9 @@ This page contains material supporting my lectures at the [*UNIVERSE+ School: Ex
 - [Lecture Script](LesHouches-Script.pdf) (long)
 - [Lecture Script](LesHouches-Script-SHORT.pdf) (short)
 ## References
-- Baumann and Joyce, [*Quantum Fields and Cosmology*](QFT-Book.pdf)
+- Baumann and Joyce, [*Quantum Fields and Cosmology*]
 - Baumann et al, [*Snowmass White Paper: Cosmological Bootstrap*](https://arxiv.org/abs/2203.08121)
 - Benincasa, [*Amplitudes Meet Cosmology*](https://arxiv.org/abs/2203.15330)
 - Arkani-Hamed, Baumann, Lee and Pimentel, [*Cosmological Bootstrap*](https://arxiv.org/abs/1811.00024)
-- Arkani-Hamed, Benincasa and Postnikov, [*Cosmological Polytopes*](https://arxiv.org/abs/1709.02813)
-- Arkani-Hamed, Figueiredo and Vazao, [*Cosmohedra*](https://arxiv.org/abs/2412.19881)
-- Arkani-Hamed et al, [*Differential Equations for Cosmological Correlators*](https://arxiv.org/abs/2312.05303)
-- Arundine, Baumann, Lee, Pimentel and Rost, [*The Cosmological Grassmannian*](https://arxiv.org/abs/2602.07117)
+- Goodhew, Jazayeri and Pajer, [*The Cosmological Optical Theorem*](https://arxiv.org/abs/2009.02898)
+- Goodhew, Jazayeri, Lee and Pajer, [*Cutting Cosmological Correlators*](https://arxiv.org/abs/2104.06587)
